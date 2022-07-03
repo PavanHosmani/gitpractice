@@ -1,0 +1,4 @@
+wo,pavan aaya naya kapde pehene ke
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   name.txt
